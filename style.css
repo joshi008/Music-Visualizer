@@ -7,6 +7,10 @@
 }
 
 body {
-    background-color: #12335e;
+    background-color: #7ab3ff;
 }
 
+h1 {
+    -webkit-text-stroke-width: 0.8px;
+    -webkit-text-stroke-color: rgb(46, 45, 45);
+}
